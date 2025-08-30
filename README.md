@@ -1,16 +1,34 @@
-## Hi there 👋
+#  Hi, I'm Priyanshu!
 
-<!--
-**priyanshu37357/priyanshu37357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year B.Tech CSE Student | Aspiring Data Scientist | 
+---
 
-Here are some ideas to get you started:
+##  About Me
+-  Currently learning **Python, SQL, and Data Science basics**  
+-  Interested in **Machine Learning & Data Analytics**  
+-  Love to work on real-world datasets and build projects  
+-  Goal: Become a **Data Scientist** by 2027  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Python, C, 
+- **Libraries/Tools:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Databases:** MySQL  
+- **Version Control:** Git & GitHub  
+
+---
+
+##  Projects
+🔹  
+🔹 
+🔹 
+
+---
+
+##  Connect with Me
+- LinkedIn: [Priyanshu](https://www.linkedin.com/in/priyanshu-datascience)  
+- GitHub: [priyanshu37357](https://github.com/priyanshu37357)  
+
+---
+ _"Consistency beats talent, every single time."_ 
